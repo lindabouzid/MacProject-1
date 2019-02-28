@@ -47,6 +47,7 @@
 		843564F22227DFC1003F2241 /* FirstiOSProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstiOSProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		843564F62227DFC1003F2241 /* FirstiOSProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstiOSProjectUITests.swift; sourceTree = "<group>"; };
 		843564F82227DFC1003F2241 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8435650522282189003F2241 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -297,6 +298,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				843564DB2227DFBF003F2241 /* Base */,
+				8435650522282189003F2241 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
